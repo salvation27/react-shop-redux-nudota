@@ -1,0 +1,1 @@
+1)создаем store - createStore from  redux

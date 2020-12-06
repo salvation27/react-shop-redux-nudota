@@ -1,1 +1,1 @@
-1)создаем store - createStore from  redux
+Кнопка показать больше
